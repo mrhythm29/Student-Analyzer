@@ -1,4 +1,4 @@
-# 🤖 Student Analyzer PRO + AI
+# 🤖 Student Analyzer
 
 A powerful GUI-based Python application that analyzes student performance and provides **AI-powered insights**.  
 Built with a clean interface, data visualization, and intelligent analysis.
